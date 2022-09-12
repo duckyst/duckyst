@@ -11,4 +11,4 @@
 -----------------------------------------------------------------------------------------------------
 
 
-<a href="https://onet.net.tr"><img align="left" alt="Onet Hosting" width="322px" src="https://github.com/duckyst/duckyst/blob/main/onet-type.png" /></a>
+<a href="https://onet.net.tr"><img align="left" alt="Onet Hosting" width="322px" src="https://github.com/duckyst/duckyst/blob/main/onet-type.png" />Türkiye'nin Net Sunucu Çözümleri</a>
