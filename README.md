@@ -20,6 +20,6 @@
 
 -----------------------------------------------------------------------------------------------------
 Düşünmeyen beyinler, düşüncesizlere esir olmaktan öteye gidemezler.
-
+Minds that do not think cannot go beyond being captive to the thoughtless.
 
 
